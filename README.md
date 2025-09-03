@@ -24,6 +24,7 @@ This project helps in **managing books, borrowers, and lending transactions** ef
 ---
 
 ## 📂 Project Structure  
+```
 Library-Management-System/
 │── src/
 │ ├── DatabaseConnection.java # Handles JDBC connection
@@ -35,6 +36,7 @@ Library-Management-System/
 │ ├── schema.sql # SQL script for table creation
 │
 │── README.md # Project documentation
+```
 
 ---
 
