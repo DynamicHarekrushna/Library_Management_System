@@ -27,13 +27,10 @@ This project helps in **managing books, borrowers, and lending transactions** ef
 ```
 Library-Management-System/
 │── src/
-│ ├── DatabaseConnection.java # Handles JDBC connection
+│ ├── DatabaseConnection.java # Handles JDBC connection & have SQL script for table creation
 │ ├── LibraryOperations.java # CRUD operations (add, borrow, return)
 │ ├── FrontPage.java # Swing GUI main interface
 │ ├── Main.java # Entry point of the project
-│
-│── database/
-│ ├── schema.sql # SQL script for table creation
 │
 │── README.md # Project documentation
 ```
