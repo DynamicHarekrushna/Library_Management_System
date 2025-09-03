@@ -25,7 +25,7 @@ This project helps in **managing books, borrowers, and lending transactions** ef
 
 ## 📂 Project Structure  
 ```
-Library-Management-System/
+LibraryManagementSPRING/
 │── src/
 │ ├── DatabaseConnection.java # Handles JDBC connection & have SQL script for table creation
 │ ├── LibraryOperations.java # CRUD operations (add, borrow, return)
